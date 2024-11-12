@@ -1,0 +1,11 @@
+# Add unwanted files and folder
+.ipynb_checkpoints/
+.virtual_documents/
+Lib/
+Scripts/
+        Student_marks.png
+__pycache__/
+        
+       
+share/
+        
